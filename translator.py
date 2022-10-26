@@ -1,7 +1,7 @@
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import numpy as np
-import pickle
+import pickle5 as pickle
 import os
 from pathlib import Path
 import string
